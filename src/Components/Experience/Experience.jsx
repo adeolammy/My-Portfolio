@@ -3,9 +3,10 @@ import './experience.css'
 
 function Experience() {
   return (
-    <div>
+    <section id='experience'> 
       Experience
-    </div>
+
+    </section>
   )
 }
 
