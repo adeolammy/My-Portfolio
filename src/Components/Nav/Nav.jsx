@@ -1,7 +1,7 @@
 import React from 'react'
-import './Nav.css'
+import './nav.css'
 
-const Footer = () => {
+const Nav = () => {
   return (
     <div>
       Nav
