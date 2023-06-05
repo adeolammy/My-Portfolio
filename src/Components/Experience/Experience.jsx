@@ -57,7 +57,7 @@ function Experience() {
     </div>
     
     <div className="experience_other">
-        <h3>Other Development Skills</h3>
+        <h3>Data Analysis Skills</h3>
       <div className="experience_content">
         <article className='experience_details'>
           <TbDiscountCheckFilled className='experience_details-icon'/>
@@ -97,8 +97,8 @@ function Experience() {
         <article className='experience_details'>
           <TbDiscountCheckFilled className='experience_details-icon'/>
           <div>
-            <h3>Figma</h3>
-            <small className='text-light'>Intermidiate</small>
+            <h3>Excel</h3>
+            <small className='text-light'>Experienced</small>
           </div>
         </article>
       </div>

@@ -15,23 +15,23 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Conducting interviews, surveys, and usability tests to understand user needs and preferences</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Creating visually appealing and intuitive interfaces that enhance user experience.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Developing low-fidelity sketches or digital prototypes to visualize the structure and layout of the interface.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p> Building interactive prototypes to test and validate design concepts and functionalities.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Designing intuitive and seamless interactions between users and the interface.</p>
             </li>
 
           </ul>
@@ -46,23 +46,31 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Creating visually appealing and user-friendly website layouts.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Ensuring websites are optimized for various devices and screen sizes.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Monitoring and resolving issues, updating content, and ensuring smooth functioning.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p> Creating online stores, shopping carts, and payment integration.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p> Building custom CMS solutions for easy content management.</p>
+            </li>
+            <li>
+              <BsCheck2All className="service_list-icon"/>
+              <p> Enhancing website performance, speed, and search engine optimization (SEO).</p>
+            </li>
+            <li>
+              <BsCheck2All className="service_list-icon"/>
+              <p>  Implementing measures to protect websites from cyber threats and data breaches.</p>
             </li>
 
           </ul>
@@ -76,23 +84,35 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Removing errors, inconsistencies, and duplicates from datasets.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Creating visually appealing and informative charts, graphs, and dashboards.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p>Applying statistical techniques to uncover patterns, trends, and correlations in data.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p> Extracting valuable insights and patterns from large and complex datasets.</p>
             </li>
             <li>
               <BsCheck2All className="service_list-icon"/>
-              <p>I design and develop beautiful responsive websites and mobile apps.</p>
+              <p> Developing models to forecast future trends and make data-driven predictions.</p>
+            </li>
+            <li>
+              <BsCheck2All className="service_list-icon"/>
+              <p> Analyzing and interpreting data findings to provide actionable recommendations.</p>
+            </li>
+            <li>
+              <BsCheck2All className="service_list-icon"/>
+              <p>Creating comprehensive reports summarizing data analysis and insights.</p>
+            </li>
+            <li>
+              <BsCheck2All className="service_list-icon"/>
+              <p> Organizing and maintaining databases to ensure data integrity and accessibility.</p>
             </li>
 
           </ul>

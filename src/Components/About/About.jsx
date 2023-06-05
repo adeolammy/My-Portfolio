@@ -40,7 +40,11 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quibusdam, labore magnam magni cumque rerum officiis hic! Optio debitis veritatis amet, ab consequuntur excepturi, voluptatum, fuga qui cumque in natus?</p>
+          <p>As an accomplished front-end developer with over three years 
+            of experience in the information technology industry, 
+            I have a proven track record of designing and maintaining responsive websites. 
+            My expertise lies in HTML, CSS, JavaScript, Python, MySQL as well as modern libraries and frameworks. 
+            I am committed to delivering user-friendly websites.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

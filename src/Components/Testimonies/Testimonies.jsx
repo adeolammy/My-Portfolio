@@ -19,26 +19,26 @@ const data = [
   {
     avatar: AVA,
     name: 'Tina Show',
-    review: 'loremLorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut',          
+    review: 'I am thoroughly impressed with the app. It has exceeded my expectations in terms of functionality, user interface, and overall performance. It has truly enhanced my workflow and made my life easier.',          
   },
 
   
   {
     avatar: AVA1,
     name: 'Orlando Owo',
-    review: 'loremLorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut',          
+    review: 'The app is an absolute game-changer! It has simplified my tasks, increased efficiency, and the attention to detail in its design is remarkable. I can not imagine my work without it now.',          
   },
 
   {
     avatar: AVA2,
     name: 'Majek Fasheck',
-    review: 'loremLorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut',          
+    review: 'I can not praise the app enough! It has revolutionized the way I work, with its seamless functionality, beautiful design, and intuitive user experience. Highly recommended for anyone in need of a productivity boost.',          
   },
 
   {
     avatar: AVA3,
     name: 'Orbat Ogunde',
-    review: 'loremLorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, aut',          
+    review: 'I am extremely satisfied with the app developed for me. It has greatly improved my productivity and has an excellent user interface.',          
   },
 
 
