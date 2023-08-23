@@ -9,7 +9,7 @@ import {FaFolderOpen} from 'react-icons/fa'
 const About = () => {
   return (
     <section id='about'> 
-      <h3>Get To Know</h3>
+      <h1>Get To Know Me</h1>
       <h2>About Me</h2>
 
       <div className="container about_container">
@@ -30,20 +30,20 @@ const About = () => {
             <article className='about_card'>
               <FaUserFriends className='about_icon'/>
               <h3>Clients</h3>
-              <small>20+ Worldwide</small>
+              <small>10+ Worldwide</small>
             </article>
 
             <article className='about_card'>
               <FaFolderOpen className='about_icon'/>
               <h3>Projects</h3>
-              <small>30+ Completed</small>
+              <small>40+ Completed</small>
             </article>
           </div>
 
           <p>As an accomplished front-end developer with over three years 
             of experience in the information technology industry, 
             I have a proven track record of designing and maintaining responsive websites. 
-            My expertise lies in HTML, CSS, JavaScript, Python, MySQL as well as modern libraries and frameworks. 
+            My expertise lies in HTML, CSS, JavaScript, Python, SQL, TABLEAU as well as modern libraries and frameworks. 
             I am committed to delivering user-friendly websites.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

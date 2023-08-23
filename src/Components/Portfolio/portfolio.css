@@ -26,6 +26,7 @@
 
 .portfolio_item h3{
     margin: 1.2rem 0 2rem;
+    text-align: center;
 
 }
 
@@ -35,10 +36,21 @@
     margin-bottom: 1rem;
  }
 
+    .portfolio_item-cta .btn {
+        
+        margin: 0 auto;    
+        width: 10rem;
+        align-items: center;
+        text-align: center;
+        transition: .3s;
+        text-transform: uppercase;
+        background: var(--color-primary-variant);
+
+ }
     .portfolio_item-cta .btn:hover {
         transition: .3s;
-        background: var(--color-primary-variant);
-        color: var(--color-bg-variant);
+        color: white;
+        background: transparent;
         border: 1px solid var(--color-primary-variant);
  }
 

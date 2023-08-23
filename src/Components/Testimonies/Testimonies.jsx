@@ -18,26 +18,26 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVA,
-    name: 'Tina Show',
+    name: 'Tiana Sean',
     review: 'I am thoroughly impressed with the app. It has exceeded my expectations in terms of functionality, user interface, and overall performance. It has truly enhanced my workflow and made my life easier.',          
   },
 
   
   {
     avatar: AVA1,
-    name: 'Orlando Owo',
+    name: 'Sharon Davis',
     review: 'The app is an absolute game-changer! It has simplified my tasks, increased efficiency, and the attention to detail in its design is remarkable. I can not imagine my work without it now.',          
   },
 
   {
     avatar: AVA2,
-    name: 'Majek Fasheck',
+    name: 'Makeen Habeeb',
     review: 'I can not praise the app enough! It has revolutionized the way I work, with its seamless functionality, beautiful design, and intuitive user experience. Highly recommended for anyone in need of a productivity boost.',          
   },
 
   {
     avatar: AVA3,
-    name: 'Orbat Ogunde',
+    name: 'Olaosebikan Makinde Joseph',
     review: 'I am extremely satisfied with the app developed for me. It has greatly improved my productivity and has an excellent user interface.',          
   },
 
@@ -48,7 +48,7 @@ const data = [
 const Testimonies = () => {
   return (
     <section id='Testimonials'>
-      <h5>Review from Clients</h5>
+      <h1>Review from Clients</h1>
       <h2>Testimonials</h2>
 
       <Swiper className="container testimonial_container"

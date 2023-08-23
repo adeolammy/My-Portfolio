@@ -5,7 +5,7 @@ import {BsCheck2All} from 'react-icons/bs'
 const Services = () => {
   return (
     <section id='services'> 
-      <h3>What I Offer</h3>
+      <h1>What I Offer</h1>
       <h2>Services</h2>
       <div className="container services_container">
         <article className="service">

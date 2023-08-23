@@ -55,6 +55,10 @@ input, textarea{
     color: var(--color-white);
 }
 
+.send:hover{
+    background: var(--color-bg-variant)
+
+}
 
 
 /* ******************************MEDIA QUERY (MD Dev)***************** */

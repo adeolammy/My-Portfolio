@@ -5,7 +5,7 @@ import {TbDiscountCheckFilled} from 'react-icons/tb'
 function Experience() {
   return (
     <section id='experience'> 
-      <h3>My Skills</h3>
+      <h1>My Skills</h1>
       <h2>My Experience</h2>
   <div className='container experience_container'>
     <div className="experience_frontend">
@@ -83,14 +83,14 @@ function Experience() {
         <article className='experience_details'>
           <TbDiscountCheckFilled className='experience_details-icon'/>
             <div>
-                <h3>MYSQL</h3>
+                <h3>SQL</h3>
                 <small className='text-light'>Experienced</small>
             </div>
         </article>
         <article className='experience_details'>
           <TbDiscountCheckFilled className='experience_details-icon'/>
           <div>
-             <h3>Flask</h3>
+             <h3>Tableau</h3>
              <small className='text-light'>Intermidiate</small>
           </div>
         </article>

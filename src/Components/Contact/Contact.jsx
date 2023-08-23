@@ -20,7 +20,7 @@ const form = useRef();
   
   return (
     <section id='contact'> 
-      <h5> Get In Touch</h5>
+      <h1> Get In Touch</h1>
       <h2> Contact Me</h2>
     <div className="container contact_container">
       <div className="contact_options">
@@ -43,7 +43,7 @@ const form = useRef();
         <input type="text" name='name' placeholder='Your Full Name' required/>
         <input type="text" name='email' placeholder='Your Email' required/>
         <textarea name="message" id=""  rows="10" placeholder='Your message' required></textarea>
-        <button type="submit" className='btn btn-primary'>Send Message</button>
+        <button type="submit" className='send btn btn-primary'>Send Message</button>
       </form>
     </div>
     </section>

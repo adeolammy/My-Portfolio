@@ -18,6 +18,11 @@ header{
     gap:1.2rem;
     justify-content: center;
 }
+.cta a:hover{
+    color: var(--color-primary);
+    /* background-color: white; */
+
+}
 
 
 /* *******************Header_Social******************* */
