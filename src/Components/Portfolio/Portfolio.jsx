@@ -1,4 +1,4 @@
-import React from 'react'
+  import React from 'react'
 import './portfolio.css'
 import IMG0 from '../../Assest/56.jpg'
 import IMG1 from '../../Assest/31.jpg'

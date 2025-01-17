@@ -20,9 +20,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer_socials">
-        <a href=" https://facebook.com"><IoLogoFacebook/></a>
-        <a href=" https://instagram.com"><FiInstagram/></a>
-        <a href=" https://twitter.com"><IoLogoTwitter/></a>
+        <a href=" https://facebook.com" target='blank'><IoLogoFacebook/></a>
+        <a href=" https://instagram.com" target='blank'><FiInstagram/></a>
+        <a href=" https://twitter.com" target='blank'><IoLogoTwitter/></a>
       </div>
       <div className="footer_copyright">
         <small>&copy; Adebajo All rights reserved</small>

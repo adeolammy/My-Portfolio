@@ -34,8 +34,8 @@ const form = useRef();
         <article className="contact_option">
           <BsWhatsapp className='contact_option-icon'/>
           <h4>WhatsApp</h4>
-          <h5>+2348056446232</h5>
-          <a href="https://api.whatsapp.com/send?=+2348056446232" target="_blank">Send a message</a> 
+          <h5>+44 7443557438</h5>
+          <a href="https://api.whatsapp.com/send?=+447443557438" target="_blank">Send a message</a> 
         </article>
       </div>
       {/* END OF CONTACT OPTION */}

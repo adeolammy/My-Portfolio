@@ -24,7 +24,7 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon'/>
               <h3>Experiences</h3>
-              <small>3+ Years Working</small>
+              <small>6+ Years Working</small>
             </article>
 
             <article className='about_card'>
@@ -40,11 +40,12 @@ const About = () => {
             </article>
           </div>
 
-          <p>As an accomplished front-end developer with over three years 
-            of experience in the information technology industry, 
-            I have a proven track record of designing and maintaining responsive websites. 
-            My expertise lies in HTML, CSS, JavaScript, Python, SQL, TABLEAU as well as modern libraries and frameworks. 
-            I am committed to delivering user-friendly websites.</p>
+          <p>As an accomplished front-end developer and data analyst with over 6 years of experience in the 
+            information technology industry, I have a proven track record of designing and maintaining responsive 
+            websites while generating actionable insights from complex datasets for informed decision-making. 
+            My expertise spans HTML, CSS, JavaScript, Python, SQL, Power BI, and modern libraries and frameworks. 
+            I am dedicated to delivering user-friendly websites that enhance user experience and drive data-driven strategies.
+          </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

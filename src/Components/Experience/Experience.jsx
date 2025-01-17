@@ -76,8 +76,8 @@ function Experience() {
         <article className='experience_details'>
           <TbDiscountCheckFilled className='experience_details-icon'/>
             <div>
-                <h3>Pandas</h3>
-                <small className='text-light'>Intermidiate</small>
+                <h3>Power BI</h3>
+                <small className='text-light'>Experienced</small>
             </div>
         </article>
         <article className='experience_details'>
@@ -91,9 +91,10 @@ function Experience() {
           <TbDiscountCheckFilled className='experience_details-icon'/>
           <div>
              <h3>Tableau</h3>
-             <small className='text-light'>Intermidiate</small>
+             <small className='text-light'>Experienced</small>
           </div>
         </article>
+        
         <article className='experience_details'>
           <TbDiscountCheckFilled className='experience_details-icon'/>
           <div>
